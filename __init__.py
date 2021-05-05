@@ -1,2 +1,3 @@
 class Test:
-    pass
+    def __repr__(self):
+        return 'Test ksdgksdg'
